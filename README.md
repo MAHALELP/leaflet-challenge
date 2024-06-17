@@ -1,4 +1,4 @@
-Leaflet (Earthquake Map) challenge
+**Leaflet (Earthquake Map) challenge**
 
 In this project, I undertook the challenge of constructing an interactive dashboard utilizing the Leaflet library to visualize earthquake data sourced from the United States Geological Survey (USGS). The primary objective was to develop a map that accurately plots all recorded earthquakes based on their geographical coordinates (longitude and latitude). 
 Each data marker on the map is scaled to represent the earthquake's magnitude, offering intuitive visual cues. Furthermore, the depth of each earthquake is depicted using a color gradient applied to the markers. 
