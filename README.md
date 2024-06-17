@@ -4,5 +4,5 @@ In this project, I undertook the challenge of constructing an interactive dashbo
 
 [![Dashboard Preview](https://mahalelp.github.io/leaflet-challenge/dashboard_preview.png)](https://mahalelp.github.io/leaflet-challenge/)
 
-Click the link to view dashboard
+
 
