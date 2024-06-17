@@ -1,6 +1,6 @@
 
 // // Define earthquakes plates GeoJSON url variable
-// var geoData = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
+// var geoData = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson";
 // var geojson;
 // //set map
 // var myMap = L.map("map", {
@@ -89,7 +89,7 @@
 
 
 // Define the url for the GeoJSON earthquake data
-var url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
+var url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson";
 
 // Create the map
 var myMap = L.map("map", {
